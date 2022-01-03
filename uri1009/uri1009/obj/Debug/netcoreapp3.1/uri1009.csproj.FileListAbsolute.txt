@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\uri1009\uri1009\bin\Debug\netcoreapp3.1\uri1009.exe
+C:\Users\Manoel\Desktop\Estudo C#\uri1009\uri1009\bin\Debug\netcoreapp3.1\uri1009.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\uri1009\uri1009\bin\Debug\netcoreapp3.1\uri1009.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\uri1009\uri1009\bin\Debug\netcoreapp3.1\uri1009.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\uri1009\uri1009\bin\Debug\netcoreapp3.1\uri1009.dll
+C:\Users\Manoel\Desktop\Estudo C#\uri1009\uri1009\bin\Debug\netcoreapp3.1\uri1009.pdb
+C:\Users\Manoel\Desktop\Estudo C#\uri1009\uri1009\obj\Debug\netcoreapp3.1\uri1009.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\uri1009\uri1009\obj\Debug\netcoreapp3.1\uri1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\uri1009\uri1009\obj\Debug\netcoreapp3.1\uri1009.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\uri1009\uri1009\obj\Debug\netcoreapp3.1\uri1009.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\uri1009\uri1009\obj\Debug\netcoreapp3.1\uri1009.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\uri1009\uri1009\obj\Debug\netcoreapp3.1\uri1009.dll
+C:\Users\Manoel\Desktop\Estudo C#\uri1009\uri1009\obj\Debug\netcoreapp3.1\uri1009.pdb
+C:\Users\Manoel\Desktop\Estudo C#\uri1009\uri1009\obj\Debug\netcoreapp3.1\uri1009.genruntimeconfig.cache
