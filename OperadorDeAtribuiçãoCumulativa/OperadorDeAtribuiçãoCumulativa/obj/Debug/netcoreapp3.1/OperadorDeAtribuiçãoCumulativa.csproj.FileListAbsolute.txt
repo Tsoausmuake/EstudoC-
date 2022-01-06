@@ -1,0 +1,13 @@
+C:\Users\Manoel\Desktop\Estudo C#\OperadorDeAtribuiçãoCumulativa\OperadorDeAtribuiçãoCumulativa\bin\Debug\netcoreapp3.1\OperadorDeAtribuiçãoCumulativa.exe
+C:\Users\Manoel\Desktop\Estudo C#\OperadorDeAtribuiçãoCumulativa\OperadorDeAtribuiçãoCumulativa\bin\Debug\netcoreapp3.1\OperadorDeAtribuiçãoCumulativa.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\OperadorDeAtribuiçãoCumulativa\OperadorDeAtribuiçãoCumulativa\bin\Debug\netcoreapp3.1\OperadorDeAtribuiçãoCumulativa.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\OperadorDeAtribuiçãoCumulativa\OperadorDeAtribuiçãoCumulativa\bin\Debug\netcoreapp3.1\OperadorDeAtribuiçãoCumulativa.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\OperadorDeAtribuiçãoCumulativa\OperadorDeAtribuiçãoCumulativa\bin\Debug\netcoreapp3.1\OperadorDeAtribuiçãoCumulativa.dll
+C:\Users\Manoel\Desktop\Estudo C#\OperadorDeAtribuiçãoCumulativa\OperadorDeAtribuiçãoCumulativa\bin\Debug\netcoreapp3.1\OperadorDeAtribuiçãoCumulativa.pdb
+C:\Users\Manoel\Desktop\Estudo C#\OperadorDeAtribuiçãoCumulativa\OperadorDeAtribuiçãoCumulativa\obj\Debug\netcoreapp3.1\OperadorDeAtribuiçãoCumulativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\OperadorDeAtribuiçãoCumulativa\OperadorDeAtribuiçãoCumulativa\obj\Debug\netcoreapp3.1\OperadorDeAtribuiçãoCumulativa.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\OperadorDeAtribuiçãoCumulativa\OperadorDeAtribuiçãoCumulativa\obj\Debug\netcoreapp3.1\OperadorDeAtribuiçãoCumulativa.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\OperadorDeAtribuiçãoCumulativa\OperadorDeAtribuiçãoCumulativa\obj\Debug\netcoreapp3.1\OperadorDeAtribuiçãoCumulativa.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\OperadorDeAtribuiçãoCumulativa\OperadorDeAtribuiçãoCumulativa\obj\Debug\netcoreapp3.1\OperadorDeAtribuiçãoCumulativa.dll
+C:\Users\Manoel\Desktop\Estudo C#\OperadorDeAtribuiçãoCumulativa\OperadorDeAtribuiçãoCumulativa\obj\Debug\netcoreapp3.1\OperadorDeAtribuiçãoCumulativa.pdb
+C:\Users\Manoel\Desktop\Estudo C#\OperadorDeAtribuiçãoCumulativa\OperadorDeAtribuiçãoCumulativa\obj\Debug\netcoreapp3.1\OperadorDeAtribuiçãoCumulativa.genruntimeconfig.cache

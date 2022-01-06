@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\ExercicioCurso\ExercicioCurso\bin\Debug\netcoreapp3.1\ExercicioCurso.exe
+C:\Users\Manoel\Desktop\Estudo C#\ExercicioCurso\ExercicioCurso\bin\Debug\netcoreapp3.1\ExercicioCurso.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\ExercicioCurso\ExercicioCurso\bin\Debug\netcoreapp3.1\ExercicioCurso.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\ExercicioCurso\ExercicioCurso\bin\Debug\netcoreapp3.1\ExercicioCurso.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\ExercicioCurso\ExercicioCurso\bin\Debug\netcoreapp3.1\ExercicioCurso.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExercicioCurso\ExercicioCurso\bin\Debug\netcoreapp3.1\ExercicioCurso.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExercicioCurso\ExercicioCurso\obj\Debug\netcoreapp3.1\ExercicioCurso.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExercicioCurso\ExercicioCurso\obj\Debug\netcoreapp3.1\ExercicioCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\ExercicioCurso\ExercicioCurso\obj\Debug\netcoreapp3.1\ExercicioCurso.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExercicioCurso\ExercicioCurso\obj\Debug\netcoreapp3.1\ExercicioCurso.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\ExercicioCurso\ExercicioCurso\obj\Debug\netcoreapp3.1\ExercicioCurso.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExercicioCurso\ExercicioCurso\obj\Debug\netcoreapp3.1\ExercicioCurso.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExercicioCurso\ExercicioCurso\obj\Debug\netcoreapp3.1\ExercicioCurso.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExercicioCurso\ExercicioCurso\obj\Debug\netcoreapp3.1\ExercicioCurso.genruntimeconfig.cache

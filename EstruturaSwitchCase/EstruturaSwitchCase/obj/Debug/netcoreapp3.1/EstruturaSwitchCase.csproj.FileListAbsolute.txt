@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\netcoreapp3.1\EstruturaSwitchCase.exe
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\netcoreapp3.1\EstruturaSwitchCase.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\netcoreapp3.1\EstruturaSwitchCase.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\netcoreapp3.1\EstruturaSwitchCase.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\netcoreapp3.1\EstruturaSwitchCase.dll
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\netcoreapp3.1\EstruturaSwitchCase.pdb
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\netcoreapp3.1\EstruturaSwitchCase.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\netcoreapp3.1\EstruturaSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\netcoreapp3.1\EstruturaSwitchCase.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\netcoreapp3.1\EstruturaSwitchCase.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\netcoreapp3.1\EstruturaSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\netcoreapp3.1\EstruturaSwitchCase.dll
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\netcoreapp3.1\EstruturaSwitchCase.pdb
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\netcoreapp3.1\EstruturaSwitchCase.genruntimeconfig.cache
