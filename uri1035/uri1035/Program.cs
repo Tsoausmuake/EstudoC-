@@ -17,12 +17,12 @@ namespace uri1035
 
             if (b > c && d > a && c + d > a + b && c > 0 && d > 0 && a % 2 == 0)
             {
-                Console.WriteLine("Valores Aceitos");
+                Console.WriteLine("Valores aceitos");
 
             }
             else
             {
-                Console.WriteLine("Valores Não Aceitos");
+                Console.WriteLine("Valores nao aceitos");
             }
 
 
