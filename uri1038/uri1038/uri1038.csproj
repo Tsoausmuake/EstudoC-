@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\Manoel\Desktop\Estudo C#\Estudo\estudos.cs" Link="estudos.cs" />
+  </ItemGroup>
+
 </Project>

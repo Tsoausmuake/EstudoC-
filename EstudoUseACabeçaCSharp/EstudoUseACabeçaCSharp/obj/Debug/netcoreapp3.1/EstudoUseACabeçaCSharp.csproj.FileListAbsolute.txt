@@ -1,0 +1,17 @@
+C:\Users\Manoel\Desktop\Estudo C#\EstudoUseACabeçaCSharp\EstudoUseACabeçaCSharp\bin\Debug\netcoreapp3.1\EstudoUseACabeçaCSharp.exe
+C:\Users\Manoel\Desktop\Estudo C#\EstudoUseACabeçaCSharp\EstudoUseACabeçaCSharp\bin\Debug\netcoreapp3.1\EstudoUseACabeçaCSharp.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\EstudoUseACabeçaCSharp\EstudoUseACabeçaCSharp\bin\Debug\netcoreapp3.1\EstudoUseACabeçaCSharp.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\EstudoUseACabeçaCSharp\EstudoUseACabeçaCSharp\bin\Debug\netcoreapp3.1\EstudoUseACabeçaCSharp.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\EstudoUseACabeçaCSharp\EstudoUseACabeçaCSharp\bin\Debug\netcoreapp3.1\EstudoUseACabeçaCSharp.dll
+C:\Users\Manoel\Desktop\Estudo C#\EstudoUseACabeçaCSharp\EstudoUseACabeçaCSharp\bin\Debug\netcoreapp3.1\EstudoUseACabeçaCSharp.pdb
+C:\Users\Manoel\Desktop\Estudo C#\EstudoUseACabeçaCSharp\EstudoUseACabeçaCSharp\obj\Debug\netcoreapp3.1\EstudoUseACabeçaCSharp.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\EstudoUseACabeçaCSharp\EstudoUseACabeçaCSharp\obj\Debug\netcoreapp3.1\EstudoUseACabeçaCSharp.Form1.resources
+C:\Users\Manoel\Desktop\Estudo C#\EstudoUseACabeçaCSharp\EstudoUseACabeçaCSharp\obj\Debug\netcoreapp3.1\EstudoUseACabeçaCSharp.Properties.Resources.resources
+C:\Users\Manoel\Desktop\Estudo C#\EstudoUseACabeçaCSharp\EstudoUseACabeçaCSharp\obj\Debug\netcoreapp3.1\EstudoUseACabeçaCSharp.csproj.GenerateResource.cache
+C:\Users\Manoel\Desktop\Estudo C#\EstudoUseACabeçaCSharp\EstudoUseACabeçaCSharp\obj\Debug\netcoreapp3.1\EstudoUseACabeçaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\EstudoUseACabeçaCSharp\EstudoUseACabeçaCSharp\obj\Debug\netcoreapp3.1\EstudoUseACabeçaCSharp.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\EstudoUseACabeçaCSharp\EstudoUseACabeçaCSharp\obj\Debug\netcoreapp3.1\EstudoUseACabeçaCSharp.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\EstudoUseACabeçaCSharp\EstudoUseACabeçaCSharp\obj\Debug\netcoreapp3.1\EstudoUseACabeçaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\EstudoUseACabeçaCSharp\EstudoUseACabeçaCSharp\obj\Debug\netcoreapp3.1\EstudoUseACabeçaCSharp.dll
+C:\Users\Manoel\Desktop\Estudo C#\EstudoUseACabeçaCSharp\EstudoUseACabeçaCSharp\obj\Debug\netcoreapp3.1\EstudoUseACabeçaCSharp.pdb
+C:\Users\Manoel\Desktop\Estudo C#\EstudoUseACabeçaCSharp\EstudoUseACabeçaCSharp\obj\Debug\netcoreapp3.1\EstudoUseACabeçaCSharp.genruntimeconfig.cache
