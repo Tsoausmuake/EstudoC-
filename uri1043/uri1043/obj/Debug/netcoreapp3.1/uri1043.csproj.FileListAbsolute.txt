@@ -1,0 +1,14 @@
+C:\Users\Manoel\source\repos\uri1043\uri1043\bin\Debug\netcoreapp3.1\uri1043.exe
+C:\Users\Manoel\source\repos\uri1043\uri1043\bin\Debug\netcoreapp3.1\uri1043.deps.json
+C:\Users\Manoel\source\repos\uri1043\uri1043\bin\Debug\netcoreapp3.1\uri1043.runtimeconfig.json
+C:\Users\Manoel\source\repos\uri1043\uri1043\bin\Debug\netcoreapp3.1\uri1043.runtimeconfig.dev.json
+C:\Users\Manoel\source\repos\uri1043\uri1043\bin\Debug\netcoreapp3.1\uri1043.dll
+C:\Users\Manoel\source\repos\uri1043\uri1043\bin\Debug\netcoreapp3.1\uri1043.pdb
+C:\Users\Manoel\source\repos\uri1043\uri1043\obj\Debug\netcoreapp3.1\uri1043.csproj.AssemblyReference.cache
+C:\Users\Manoel\source\repos\uri1043\uri1043\obj\Debug\netcoreapp3.1\uri1043.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\source\repos\uri1043\uri1043\obj\Debug\netcoreapp3.1\uri1043.AssemblyInfoInputs.cache
+C:\Users\Manoel\source\repos\uri1043\uri1043\obj\Debug\netcoreapp3.1\uri1043.AssemblyInfo.cs
+C:\Users\Manoel\source\repos\uri1043\uri1043\obj\Debug\netcoreapp3.1\uri1043.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\source\repos\uri1043\uri1043\obj\Debug\netcoreapp3.1\uri1043.dll
+C:\Users\Manoel\source\repos\uri1043\uri1043\obj\Debug\netcoreapp3.1\uri1043.pdb
+C:\Users\Manoel\source\repos\uri1043\uri1043\obj\Debug\netcoreapp3.1\uri1043.genruntimeconfig.cache
