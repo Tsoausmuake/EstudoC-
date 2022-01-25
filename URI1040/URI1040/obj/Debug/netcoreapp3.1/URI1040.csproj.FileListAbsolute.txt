@@ -12,3 +12,17 @@ C:\Users\Manoel\source\repos\URI1040\URI1040\obj\Debug\netcoreapp3.1\URI1040.csp
 C:\Users\Manoel\source\repos\URI1040\URI1040\obj\Debug\netcoreapp3.1\URI1040.dll
 C:\Users\Manoel\source\repos\URI1040\URI1040\obj\Debug\netcoreapp3.1\URI1040.pdb
 C:\Users\Manoel\source\repos\URI1040\URI1040\obj\Debug\netcoreapp3.1\URI1040.genruntimeconfig.cache
+C:\Users\Manoel\Desktop\Estudo C#\URI1040\URI1040\bin\Debug\netcoreapp3.1\URI1040.exe
+C:\Users\Manoel\Desktop\Estudo C#\URI1040\URI1040\bin\Debug\netcoreapp3.1\URI1040.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\URI1040\URI1040\bin\Debug\netcoreapp3.1\URI1040.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\URI1040\URI1040\bin\Debug\netcoreapp3.1\URI1040.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\URI1040\URI1040\bin\Debug\netcoreapp3.1\URI1040.dll
+C:\Users\Manoel\Desktop\Estudo C#\URI1040\URI1040\bin\Debug\netcoreapp3.1\URI1040.pdb
+C:\Users\Manoel\Desktop\Estudo C#\URI1040\URI1040\obj\Debug\netcoreapp3.1\URI1040.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\URI1040\URI1040\obj\Debug\netcoreapp3.1\URI1040.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\URI1040\URI1040\obj\Debug\netcoreapp3.1\URI1040.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\URI1040\URI1040\obj\Debug\netcoreapp3.1\URI1040.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\URI1040\URI1040\obj\Debug\netcoreapp3.1\URI1040.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\URI1040\URI1040\obj\Debug\netcoreapp3.1\URI1040.dll
+C:\Users\Manoel\Desktop\Estudo C#\URI1040\URI1040\obj\Debug\netcoreapp3.1\URI1040.pdb
+C:\Users\Manoel\Desktop\Estudo C#\URI1040\URI1040\obj\Debug\netcoreapp3.1\URI1040.genruntimeconfig.cache

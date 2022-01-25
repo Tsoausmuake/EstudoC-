@@ -22,7 +22,7 @@ namespace URi1046
             }
             if (horaInicial < horaFinal)
             {
-                Console.WriteLine("O JOGO DUROU " + (24 - horaFinal + horaInicial) + " HORA(S)");
+                Console.WriteLine("O JOGO DUROU " + (horaFinal - horaInicial) + " HORA(S)");
             }
         }
     }

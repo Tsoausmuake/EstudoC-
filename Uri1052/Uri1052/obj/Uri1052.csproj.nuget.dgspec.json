@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Manoel\\source\\repos\\Uri1052\\Uri1052\\Uri1052.csproj": {}
+    "C:\\Users\\Manoel\\Desktop\\Estudo C#\\Uri1052\\Uri1052\\Uri1052.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Manoel\\source\\repos\\Uri1052\\Uri1052\\Uri1052.csproj": {
+    "C:\\Users\\Manoel\\Desktop\\Estudo C#\\Uri1052\\Uri1052\\Uri1052.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Manoel\\source\\repos\\Uri1052\\Uri1052\\Uri1052.csproj",
+        "projectUniqueName": "C:\\Users\\Manoel\\Desktop\\Estudo C#\\Uri1052\\Uri1052\\Uri1052.csproj",
         "projectName": "Uri1052",
-        "projectPath": "C:\\Users\\Manoel\\source\\repos\\Uri1052\\Uri1052\\Uri1052.csproj",
+        "projectPath": "C:\\Users\\Manoel\\Desktop\\Estudo C#\\Uri1052\\Uri1052\\Uri1052.csproj",
         "packagesPath": "C:\\Users\\Manoel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Manoel\\source\\repos\\Uri1052\\Uri1052\\obj\\",
+        "outputPath": "C:\\Users\\Manoel\\Desktop\\Estudo C#\\Uri1052\\Uri1052\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

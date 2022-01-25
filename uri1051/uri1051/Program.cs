@@ -22,31 +22,27 @@ namespace uri1051
             // Output similar to: 'At 4/10/2015 9:29:41 AM, the temperature is 20.4°C.'
             */
 
+            double imposto;
+            double salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double a = Convert.ToDouble(Console.ReadLine());
-            double b, c;
-
-            if (a >= 0.00 && a <= 2000.00)
+            if (salario >= 0 && salario <= 2000.00)
             {
-                Console.WriteLine("Isento"); ;
+                Console.WriteLine("Isento");
             }
-            if (a > 2000.00 && a <= 3000.00)
+            if (salario > 2000.00 && salario <= 3000.00)
             {
-                b = a - 2000;
-                c = b * 0.08;
-                Console.WriteLine("R$ " + string.Format("{0:0.00}", c));
+                imposto = (salario - 2000.00) * 0.08;
+                Console.WriteLine("R$ " + imposto.ToString("F2", CultureInfo.InvariantCulture));
             }
-            if (a > 3000.00 && a <= 4500.00)
+            if (salario > 3000.00 && salario <= 4500.00)
             {
-                b = a - 3000;
-                c = b * 0.18 + 1000 * 0.08;
-                Console.WriteLine("R$ " + string.Format("{0:0.00}", c));
+                imposto = ((3000.00 - 2000.01) * 0.08) + ((salario - 3000.00) * 0.18);
+                Console.WriteLine("R$ " + imposto.ToString("F2", CultureInfo.InvariantCulture));
             }
-            if (a > 4500.00)
+            if (salario > 4500.00)
             {
-                b = a - 4500;
-                c = b * 0.28 + 1500 * 0.18 + 1500 * 0.08;
-                Console.WriteLine("R$ " + string.Format("{0:0.00}", c));
+                imposto = ((3000.00 - 2000.01) * 0.08) + ((4500.00 - 3000.01) * 0.18) + ((salario - 4500.00) * 0.28);
+                Console.WriteLine("R$ " + imposto.ToString("F2", CultureInfo.InvariantCulture));
             }
         }
     }

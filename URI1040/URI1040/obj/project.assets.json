@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Manoel\\source\\repos\\URI1040\\URI1040\\URI1040.csproj",
+      "projectUniqueName": "C:\\Users\\Manoel\\Desktop\\Estudo C#\\URI1040\\URI1040\\URI1040.csproj",
       "projectName": "URI1040",
-      "projectPath": "C:\\Users\\Manoel\\source\\repos\\URI1040\\URI1040\\URI1040.csproj",
+      "projectPath": "C:\\Users\\Manoel\\Desktop\\Estudo C#\\URI1040\\URI1040\\URI1040.csproj",
       "packagesPath": "C:\\Users\\Manoel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Manoel\\source\\repos\\URI1040\\URI1040\\obj\\",
+      "outputPath": "C:\\Users\\Manoel\\Desktop\\Estudo C#\\URI1040\\URI1040\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
