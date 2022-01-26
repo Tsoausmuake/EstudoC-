@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp3.1\EstruturaWhile.exe
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp3.1\EstruturaWhile.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp3.1\EstruturaWhile.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp3.1\EstruturaWhile.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp3.1\EstruturaWhile.dll
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp3.1\EstruturaWhile.pdb
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp3.1\EstruturaWhile.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp3.1\EstruturaWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp3.1\EstruturaWhile.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp3.1\EstruturaWhile.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp3.1\EstruturaWhile.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp3.1\EstruturaWhile.dll
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp3.1\EstruturaWhile.pdb
+C:\Users\Manoel\Desktop\Estudo C#\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp3.1\EstruturaWhile.genruntimeconfig.cache
