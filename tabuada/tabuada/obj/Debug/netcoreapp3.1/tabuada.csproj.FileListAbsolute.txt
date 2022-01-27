@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.exe
+C:\Users\Manoel\Desktop\Estudo C#\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.dll
+C:\Users\Manoel\Desktop\Estudo C#\tabuada\tabuada\bin\Debug\netcoreapp3.1\tabuada.pdb
+C:\Users\Manoel\Desktop\Estudo C#\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.dll
+C:\Users\Manoel\Desktop\Estudo C#\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.pdb
+C:\Users\Manoel\Desktop\Estudo C#\tabuada\tabuada\obj\Debug\netcoreapp3.1\tabuada.genruntimeconfig.cache

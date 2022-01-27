@@ -6,15 +6,18 @@ namespace EstruturaWhile
     {
         static void Main(string[] args)
         {
-            int x = int.Parse(Console.ReadLine());
-            int soma = 0;
-            while (x != 0)
-            {
-                soma += x;
-                x = int.Parse(Console.ReadLine());
+            string[] vet = Console.ReadLine().Split(' ');
+            int x = int.Parse(vet[0]);
+            int y = int.Parse(vet[1]);
 
+            while (x != y)
+            {
+                Console.WriteLine(x < y ? "Crescente" : "Decrescente");
+
+                vet = Console.ReadLine().Split(' ');
+                x = int.Parse(vet[0]);
+                y = int.Parse(vet[1]);
             }
-            Console.WriteLine(soma);
         }
     }
 }

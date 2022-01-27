@@ -1,0 +1,13 @@
+C:\Users\Manoel\Desktop\Estudo C#\ExDoWhile\ExDoWhile\bin\Debug\netcoreapp3.1\ExDoWhile.exe
+C:\Users\Manoel\Desktop\Estudo C#\ExDoWhile\ExDoWhile\bin\Debug\netcoreapp3.1\ExDoWhile.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\ExDoWhile\ExDoWhile\bin\Debug\netcoreapp3.1\ExDoWhile.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\ExDoWhile\ExDoWhile\bin\Debug\netcoreapp3.1\ExDoWhile.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\ExDoWhile\ExDoWhile\bin\Debug\netcoreapp3.1\ExDoWhile.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExDoWhile\ExDoWhile\bin\Debug\netcoreapp3.1\ExDoWhile.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExDoWhile\ExDoWhile\obj\Debug\netcoreapp3.1\ExDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\ExDoWhile\ExDoWhile\obj\Debug\netcoreapp3.1\ExDoWhile.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExDoWhile\ExDoWhile\obj\Debug\netcoreapp3.1\ExDoWhile.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\ExDoWhile\ExDoWhile\obj\Debug\netcoreapp3.1\ExDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExDoWhile\ExDoWhile\obj\Debug\netcoreapp3.1\ExDoWhile.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExDoWhile\ExDoWhile\obj\Debug\netcoreapp3.1\ExDoWhile.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExDoWhile\ExDoWhile\obj\Debug\netcoreapp3.1\ExDoWhile.genruntimeconfig.cache

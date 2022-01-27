@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\WhileIdade\WhileIdade\bin\Debug\netcoreapp3.1\WhileIdade.exe
+C:\Users\Manoel\Desktop\Estudo C#\WhileIdade\WhileIdade\bin\Debug\netcoreapp3.1\WhileIdade.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\WhileIdade\WhileIdade\bin\Debug\netcoreapp3.1\WhileIdade.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\WhileIdade\WhileIdade\bin\Debug\netcoreapp3.1\WhileIdade.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\WhileIdade\WhileIdade\bin\Debug\netcoreapp3.1\WhileIdade.dll
+C:\Users\Manoel\Desktop\Estudo C#\WhileIdade\WhileIdade\bin\Debug\netcoreapp3.1\WhileIdade.pdb
+C:\Users\Manoel\Desktop\Estudo C#\WhileIdade\WhileIdade\obj\Debug\netcoreapp3.1\WhileIdade.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\WhileIdade\WhileIdade\obj\Debug\netcoreapp3.1\WhileIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\WhileIdade\WhileIdade\obj\Debug\netcoreapp3.1\WhileIdade.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\WhileIdade\WhileIdade\obj\Debug\netcoreapp3.1\WhileIdade.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\WhileIdade\WhileIdade\obj\Debug\netcoreapp3.1\WhileIdade.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\WhileIdade\WhileIdade\obj\Debug\netcoreapp3.1\WhileIdade.dll
+C:\Users\Manoel\Desktop\Estudo C#\WhileIdade\WhileIdade\obj\Debug\netcoreapp3.1\WhileIdade.pdb
+C:\Users\Manoel\Desktop\Estudo C#\WhileIdade\WhileIdade\obj\Debug\netcoreapp3.1\WhileIdade.genruntimeconfig.cache
