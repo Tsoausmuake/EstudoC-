@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\ExForeach\ExForeach\bin\Debug\netcoreapp3.1\ExForeach.exe
+C:\Users\Manoel\Desktop\Estudo C#\ExForeach\ExForeach\bin\Debug\netcoreapp3.1\ExForeach.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\ExForeach\ExForeach\bin\Debug\netcoreapp3.1\ExForeach.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\ExForeach\ExForeach\bin\Debug\netcoreapp3.1\ExForeach.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\ExForeach\ExForeach\bin\Debug\netcoreapp3.1\ExForeach.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExForeach\ExForeach\bin\Debug\netcoreapp3.1\ExForeach.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExForeach\ExForeach\obj\Debug\netcoreapp3.1\ExForeach.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExForeach\ExForeach\obj\Debug\netcoreapp3.1\ExForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\ExForeach\ExForeach\obj\Debug\netcoreapp3.1\ExForeach.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExForeach\ExForeach\obj\Debug\netcoreapp3.1\ExForeach.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\ExForeach\ExForeach\obj\Debug\netcoreapp3.1\ExForeach.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExForeach\ExForeach\obj\Debug\netcoreapp3.1\ExForeach.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExForeach\ExForeach\obj\Debug\netcoreapp3.1\ExForeach.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExForeach\ExForeach\obj\Debug\netcoreapp3.1\ExForeach.genruntimeconfig.cache

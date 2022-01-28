@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\exVet\exVet\bin\Debug\netcoreapp3.1\exVet.exe
+C:\Users\Manoel\Desktop\Estudo C#\exVet\exVet\bin\Debug\netcoreapp3.1\exVet.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\exVet\exVet\bin\Debug\netcoreapp3.1\exVet.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\exVet\exVet\bin\Debug\netcoreapp3.1\exVet.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\exVet\exVet\bin\Debug\netcoreapp3.1\exVet.dll
+C:\Users\Manoel\Desktop\Estudo C#\exVet\exVet\bin\Debug\netcoreapp3.1\exVet.pdb
+C:\Users\Manoel\Desktop\Estudo C#\exVet\exVet\obj\Debug\netcoreapp3.1\exVet.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\exVet\exVet\obj\Debug\netcoreapp3.1\exVet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\exVet\exVet\obj\Debug\netcoreapp3.1\exVet.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\exVet\exVet\obj\Debug\netcoreapp3.1\exVet.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\exVet\exVet\obj\Debug\netcoreapp3.1\exVet.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\exVet\exVet\obj\Debug\netcoreapp3.1\exVet.dll
+C:\Users\Manoel\Desktop\Estudo C#\exVet\exVet\obj\Debug\netcoreapp3.1\exVet.pdb
+C:\Users\Manoel\Desktop\Estudo C#\exVet\exVet\obj\Debug\netcoreapp3.1\exVet.genruntimeconfig.cache

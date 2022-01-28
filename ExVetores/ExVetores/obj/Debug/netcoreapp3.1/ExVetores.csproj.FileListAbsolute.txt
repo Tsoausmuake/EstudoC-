@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\ExVetores\ExVetores\bin\Debug\netcoreapp3.1\ExVetores.exe
+C:\Users\Manoel\Desktop\Estudo C#\ExVetores\ExVetores\bin\Debug\netcoreapp3.1\ExVetores.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\ExVetores\ExVetores\bin\Debug\netcoreapp3.1\ExVetores.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\ExVetores\ExVetores\bin\Debug\netcoreapp3.1\ExVetores.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\ExVetores\ExVetores\bin\Debug\netcoreapp3.1\ExVetores.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExVetores\ExVetores\bin\Debug\netcoreapp3.1\ExVetores.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExVetores\ExVetores\obj\Debug\netcoreapp3.1\ExVetores.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExVetores\ExVetores\obj\Debug\netcoreapp3.1\ExVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\ExVetores\ExVetores\obj\Debug\netcoreapp3.1\ExVetores.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExVetores\ExVetores\obj\Debug\netcoreapp3.1\ExVetores.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\ExVetores\ExVetores\obj\Debug\netcoreapp3.1\ExVetores.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExVetores\ExVetores\obj\Debug\netcoreapp3.1\ExVetores.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExVetores\ExVetores\obj\Debug\netcoreapp3.1\ExVetores.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExVetores\ExVetores\obj\Debug\netcoreapp3.1\ExVetores.genruntimeconfig.cache

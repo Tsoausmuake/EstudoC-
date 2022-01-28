@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\ExResolvido03\ExResolvido03\bin\Debug\netcoreapp3.1\ExResolvido03.exe
+C:\Users\Manoel\Desktop\Estudo C#\ExResolvido03\ExResolvido03\bin\Debug\netcoreapp3.1\ExResolvido03.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\ExResolvido03\ExResolvido03\bin\Debug\netcoreapp3.1\ExResolvido03.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\ExResolvido03\ExResolvido03\bin\Debug\netcoreapp3.1\ExResolvido03.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\ExResolvido03\ExResolvido03\bin\Debug\netcoreapp3.1\ExResolvido03.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExResolvido03\ExResolvido03\bin\Debug\netcoreapp3.1\ExResolvido03.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExResolvido03\ExResolvido03\obj\Debug\netcoreapp3.1\ExResolvido03.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExResolvido03\ExResolvido03\obj\Debug\netcoreapp3.1\ExResolvido03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\ExResolvido03\ExResolvido03\obj\Debug\netcoreapp3.1\ExResolvido03.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExResolvido03\ExResolvido03\obj\Debug\netcoreapp3.1\ExResolvido03.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\ExResolvido03\ExResolvido03\obj\Debug\netcoreapp3.1\ExResolvido03.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExResolvido03\ExResolvido03\obj\Debug\netcoreapp3.1\ExResolvido03.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExResolvido03\ExResolvido03\obj\Debug\netcoreapp3.1\ExResolvido03.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExResolvido03\ExResolvido03\obj\Debug\netcoreapp3.1\ExResolvido03.genruntimeconfig.cache
