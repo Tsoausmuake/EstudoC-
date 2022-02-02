@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\ExClassUlmPt3\ExClassUlmPt3\bin\Debug\netcoreapp3.1\ExClassUlmPt3.exe
+C:\Users\Manoel\Desktop\Estudo C#\ExClassUlmPt3\ExClassUlmPt3\bin\Debug\netcoreapp3.1\ExClassUlmPt3.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\ExClassUlmPt3\ExClassUlmPt3\bin\Debug\netcoreapp3.1\ExClassUlmPt3.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\ExClassUlmPt3\ExClassUlmPt3\bin\Debug\netcoreapp3.1\ExClassUlmPt3.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\ExClassUlmPt3\ExClassUlmPt3\bin\Debug\netcoreapp3.1\ExClassUlmPt3.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExClassUlmPt3\ExClassUlmPt3\bin\Debug\netcoreapp3.1\ExClassUlmPt3.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExClassUlmPt3\ExClassUlmPt3\obj\Debug\netcoreapp3.1\ExClassUlmPt3.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExClassUlmPt3\ExClassUlmPt3\obj\Debug\netcoreapp3.1\ExClassUlmPt3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\ExClassUlmPt3\ExClassUlmPt3\obj\Debug\netcoreapp3.1\ExClassUlmPt3.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExClassUlmPt3\ExClassUlmPt3\obj\Debug\netcoreapp3.1\ExClassUlmPt3.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\ExClassUlmPt3\ExClassUlmPt3\obj\Debug\netcoreapp3.1\ExClassUlmPt3.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExClassUlmPt3\ExClassUlmPt3\obj\Debug\netcoreapp3.1\ExClassUlmPt3.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExClassUlmPt3\ExClassUlmPt3\obj\Debug\netcoreapp3.1\ExClassUlmPt3.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExClassUlmPt3\ExClassUlmPt3\obj\Debug\netcoreapp3.1\ExClassUlmPt3.genruntimeconfig.cache

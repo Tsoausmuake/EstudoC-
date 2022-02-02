@@ -1,0 +1,13 @@
+C:\Users\Manoel\Desktop\Estudo C#\ExercíciosClasse\ExercíciosClasse\bin\Debug\netcoreapp3.1\ExercíciosClasse.exe
+C:\Users\Manoel\Desktop\Estudo C#\ExercíciosClasse\ExercíciosClasse\bin\Debug\netcoreapp3.1\ExercíciosClasse.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\ExercíciosClasse\ExercíciosClasse\bin\Debug\netcoreapp3.1\ExercíciosClasse.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\ExercíciosClasse\ExercíciosClasse\bin\Debug\netcoreapp3.1\ExercíciosClasse.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\ExercíciosClasse\ExercíciosClasse\bin\Debug\netcoreapp3.1\ExercíciosClasse.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExercíciosClasse\ExercíciosClasse\bin\Debug\netcoreapp3.1\ExercíciosClasse.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExercíciosClasse\ExercíciosClasse\obj\Debug\netcoreapp3.1\ExercíciosClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\ExercíciosClasse\ExercíciosClasse\obj\Debug\netcoreapp3.1\ExercíciosClasse.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExercíciosClasse\ExercíciosClasse\obj\Debug\netcoreapp3.1\ExercíciosClasse.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\ExercíciosClasse\ExercíciosClasse\obj\Debug\netcoreapp3.1\ExercíciosClasse.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExercíciosClasse\ExercíciosClasse\obj\Debug\netcoreapp3.1\ExercíciosClasse.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExercíciosClasse\ExercíciosClasse\obj\Debug\netcoreapp3.1\ExercíciosClasse.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExercíciosClasse\ExercíciosClasse\obj\Debug\netcoreapp3.1\ExercíciosClasse.genruntimeconfig.cache

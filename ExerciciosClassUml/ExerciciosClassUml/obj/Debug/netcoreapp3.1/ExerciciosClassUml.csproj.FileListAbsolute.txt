@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\ExerciciosClassUml\ExerciciosClassUml\bin\Debug\netcoreapp3.1\ExerciciosClassUml.exe
+C:\Users\Manoel\Desktop\Estudo C#\ExerciciosClassUml\ExerciciosClassUml\bin\Debug\netcoreapp3.1\ExerciciosClassUml.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\ExerciciosClassUml\ExerciciosClassUml\bin\Debug\netcoreapp3.1\ExerciciosClassUml.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\ExerciciosClassUml\ExerciciosClassUml\bin\Debug\netcoreapp3.1\ExerciciosClassUml.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\ExerciciosClassUml\ExerciciosClassUml\bin\Debug\netcoreapp3.1\ExerciciosClassUml.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExerciciosClassUml\ExerciciosClassUml\bin\Debug\netcoreapp3.1\ExerciciosClassUml.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExerciciosClassUml\ExerciciosClassUml\obj\Debug\netcoreapp3.1\ExerciciosClassUml.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExerciciosClassUml\ExerciciosClassUml\obj\Debug\netcoreapp3.1\ExerciciosClassUml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\ExerciciosClassUml\ExerciciosClassUml\obj\Debug\netcoreapp3.1\ExerciciosClassUml.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExerciciosClassUml\ExerciciosClassUml\obj\Debug\netcoreapp3.1\ExerciciosClassUml.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\ExerciciosClassUml\ExerciciosClassUml\obj\Debug\netcoreapp3.1\ExerciciosClassUml.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExerciciosClassUml\ExerciciosClassUml\obj\Debug\netcoreapp3.1\ExerciciosClassUml.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExerciciosClassUml\ExerciciosClassUml\obj\Debug\netcoreapp3.1\ExerciciosClassUml.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExerciciosClassUml\ExerciciosClassUml\obj\Debug\netcoreapp3.1\ExerciciosClassUml.genruntimeconfig.cache

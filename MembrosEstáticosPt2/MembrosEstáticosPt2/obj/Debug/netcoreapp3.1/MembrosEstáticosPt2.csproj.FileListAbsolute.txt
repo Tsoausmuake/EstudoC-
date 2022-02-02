@@ -1,0 +1,5 @@
+C:\Users\Manoel\Desktop\Estudo C#\MembrosEstáticosPt2\MembrosEstáticosPt2\obj\Debug\netcoreapp3.1\MembrosEstáticosPt2.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\MembrosEstáticosPt2\MembrosEstáticosPt2\obj\Debug\netcoreapp3.1\MembrosEstáticosPt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\MembrosEstáticosPt2\MembrosEstáticosPt2\obj\Debug\netcoreapp3.1\MembrosEstáticosPt2.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\MembrosEstáticosPt2\MembrosEstáticosPt2\obj\Debug\netcoreapp3.1\MembrosEstáticosPt2.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\MembrosEstáticosPt2\MembrosEstáticosPt2\obj\Debug\netcoreapp3.1\MembrosEstáticosPt2.csproj.CoreCompileInputs.cache
