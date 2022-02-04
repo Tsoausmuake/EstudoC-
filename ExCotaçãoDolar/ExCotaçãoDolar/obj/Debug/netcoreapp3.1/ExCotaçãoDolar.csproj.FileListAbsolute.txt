@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\ExCotaçãoDolar\ExCotaçãoDolar\bin\Debug\netcoreapp3.1\ExCotaçãoDolar.exe
+C:\Users\Manoel\Desktop\Estudo C#\ExCotaçãoDolar\ExCotaçãoDolar\bin\Debug\netcoreapp3.1\ExCotaçãoDolar.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\ExCotaçãoDolar\ExCotaçãoDolar\bin\Debug\netcoreapp3.1\ExCotaçãoDolar.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\ExCotaçãoDolar\ExCotaçãoDolar\bin\Debug\netcoreapp3.1\ExCotaçãoDolar.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\ExCotaçãoDolar\ExCotaçãoDolar\bin\Debug\netcoreapp3.1\ExCotaçãoDolar.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExCotaçãoDolar\ExCotaçãoDolar\bin\Debug\netcoreapp3.1\ExCotaçãoDolar.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExCotaçãoDolar\ExCotaçãoDolar\obj\Debug\netcoreapp3.1\ExCotaçãoDolar.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExCotaçãoDolar\ExCotaçãoDolar\obj\Debug\netcoreapp3.1\ExCotaçãoDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\ExCotaçãoDolar\ExCotaçãoDolar\obj\Debug\netcoreapp3.1\ExCotaçãoDolar.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExCotaçãoDolar\ExCotaçãoDolar\obj\Debug\netcoreapp3.1\ExCotaçãoDolar.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\ExCotaçãoDolar\ExCotaçãoDolar\obj\Debug\netcoreapp3.1\ExCotaçãoDolar.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExCotaçãoDolar\ExCotaçãoDolar\obj\Debug\netcoreapp3.1\ExCotaçãoDolar.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExCotaçãoDolar\ExCotaçãoDolar\obj\Debug\netcoreapp3.1\ExCotaçãoDolar.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExCotaçãoDolar\ExCotaçãoDolar\obj\Debug\netcoreapp3.1\ExCotaçãoDolar.genruntimeconfig.cache

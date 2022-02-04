@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\ExProdutoConstrutores\ExProdutoConstrutores\obj\Debug\netcoreapp3.1\ExProdutoConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\ExProdutoConstrutores\ExProdutoConstrutores\obj\Debug\netcoreapp3.1\ExProdutoConstrutores.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExProdutoConstrutores\ExProdutoConstrutores\obj\Debug\netcoreapp3.1\ExProdutoConstrutores.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\ExProdutoConstrutores\ExProdutoConstrutores\obj\Debug\netcoreapp3.1\ExProdutoConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExProdutoConstrutores\ExProdutoConstrutores\bin\Debug\netcoreapp3.1\ExProdutoConstrutores.exe
+C:\Users\Manoel\Desktop\Estudo C#\ExProdutoConstrutores\ExProdutoConstrutores\bin\Debug\netcoreapp3.1\ExProdutoConstrutores.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\ExProdutoConstrutores\ExProdutoConstrutores\bin\Debug\netcoreapp3.1\ExProdutoConstrutores.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\ExProdutoConstrutores\ExProdutoConstrutores\bin\Debug\netcoreapp3.1\ExProdutoConstrutores.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\ExProdutoConstrutores\ExProdutoConstrutores\bin\Debug\netcoreapp3.1\ExProdutoConstrutores.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExProdutoConstrutores\ExProdutoConstrutores\bin\Debug\netcoreapp3.1\ExProdutoConstrutores.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExProdutoConstrutores\ExProdutoConstrutores\obj\Debug\netcoreapp3.1\ExProdutoConstrutores.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExProdutoConstrutores\ExProdutoConstrutores\obj\Debug\netcoreapp3.1\ExProdutoConstrutores.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExProdutoConstrutores\ExProdutoConstrutores\obj\Debug\netcoreapp3.1\ExProdutoConstrutores.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExProdutoConstrutores\ExProdutoConstrutores\obj\Debug\netcoreapp3.1\ExProdutoConstrutores.genruntimeconfig.cache
