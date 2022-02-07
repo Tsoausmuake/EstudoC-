@@ -7,6 +7,15 @@ namespace ConstrutoresSobrecarga
     {
         static void Main(string[] args)
         {
+
+            Produto p3 = new Produto()
+            {
+                Nome = "Tv",
+                Preco = 500.00,
+                Quantidade = 15
+            };
+
+
             Console.WriteLine("Entre os dados do produto:");
             Console.Write("Nome: ");
             string nome = Console.ReadLine();

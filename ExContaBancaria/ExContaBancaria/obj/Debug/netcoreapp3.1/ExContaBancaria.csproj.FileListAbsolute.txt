@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancaria\ExContaBancaria\obj\Debug\netcoreapp3.1\ExContaBancaria.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancaria\ExContaBancaria\obj\Debug\netcoreapp3.1\ExContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancaria\ExContaBancaria\obj\Debug\netcoreapp3.1\ExContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancaria\ExContaBancaria\obj\Debug\netcoreapp3.1\ExContaBancaria.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancaria\ExContaBancaria\obj\Debug\netcoreapp3.1\ExContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancaria\ExContaBancaria\bin\Debug\netcoreapp3.1\ExContaBancaria.exe
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancaria\ExContaBancaria\bin\Debug\netcoreapp3.1\ExContaBancaria.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancaria\ExContaBancaria\bin\Debug\netcoreapp3.1\ExContaBancaria.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancaria\ExContaBancaria\bin\Debug\netcoreapp3.1\ExContaBancaria.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancaria\ExContaBancaria\bin\Debug\netcoreapp3.1\ExContaBancaria.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancaria\ExContaBancaria\bin\Debug\netcoreapp3.1\ExContaBancaria.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancaria\ExContaBancaria\obj\Debug\netcoreapp3.1\ExContaBancaria.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancaria\ExContaBancaria\obj\Debug\netcoreapp3.1\ExContaBancaria.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancaria\ExContaBancaria\obj\Debug\netcoreapp3.1\ExContaBancaria.genruntimeconfig.cache
