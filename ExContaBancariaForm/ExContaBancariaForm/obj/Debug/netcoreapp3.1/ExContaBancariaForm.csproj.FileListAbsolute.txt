@@ -1,0 +1,16 @@
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancariaForm\ExContaBancariaForm\bin\Debug\netcoreapp3.1\ExContaBancariaForm.exe
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancariaForm\ExContaBancariaForm\bin\Debug\netcoreapp3.1\ExContaBancariaForm.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancariaForm\ExContaBancariaForm\bin\Debug\netcoreapp3.1\ExContaBancariaForm.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancariaForm\ExContaBancariaForm\bin\Debug\netcoreapp3.1\ExContaBancariaForm.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancariaForm\ExContaBancariaForm\bin\Debug\netcoreapp3.1\ExContaBancariaForm.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancariaForm\ExContaBancariaForm\bin\Debug\netcoreapp3.1\ExContaBancariaForm.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancariaForm\ExContaBancariaForm\obj\Debug\netcoreapp3.1\ExContaBancariaForm.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancariaForm\ExContaBancariaForm\obj\Debug\netcoreapp3.1\ExContaBancariaForm.Form1.resources
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancariaForm\ExContaBancariaForm\obj\Debug\netcoreapp3.1\ExContaBancariaForm.csproj.GenerateResource.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancariaForm\ExContaBancariaForm\obj\Debug\netcoreapp3.1\ExContaBancariaForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancariaForm\ExContaBancariaForm\obj\Debug\netcoreapp3.1\ExContaBancariaForm.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancariaForm\ExContaBancariaForm\obj\Debug\netcoreapp3.1\ExContaBancariaForm.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancariaForm\ExContaBancariaForm\obj\Debug\netcoreapp3.1\ExContaBancariaForm.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancariaForm\ExContaBancariaForm\obj\Debug\netcoreapp3.1\ExContaBancariaForm.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancariaForm\ExContaBancariaForm\obj\Debug\netcoreapp3.1\ExContaBancariaForm.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExContaBancariaForm\ExContaBancariaForm\obj\Debug\netcoreapp3.1\ExContaBancariaForm.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\List\List\bin\Debug\netcoreapp3.1\List.exe
+C:\Users\Manoel\Desktop\Estudo C#\List\List\bin\Debug\netcoreapp3.1\List.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\List\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\List\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\List\List\bin\Debug\netcoreapp3.1\List.dll
+C:\Users\Manoel\Desktop\Estudo C#\List\List\bin\Debug\netcoreapp3.1\List.pdb
+C:\Users\Manoel\Desktop\Estudo C#\List\List\obj\Debug\netcoreapp3.1\List.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\List\List\obj\Debug\netcoreapp3.1\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\List\List\obj\Debug\netcoreapp3.1\List.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\List\List\obj\Debug\netcoreapp3.1\List.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\List\List\obj\Debug\netcoreapp3.1\List.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\List\List\obj\Debug\netcoreapp3.1\List.dll
+C:\Users\Manoel\Desktop\Estudo C#\List\List\obj\Debug\netcoreapp3.1\List.pdb
+C:\Users\Manoel\Desktop\Estudo C#\List\List\obj\Debug\netcoreapp3.1\List.genruntimeconfig.cache

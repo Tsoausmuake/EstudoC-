@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\ModificadoDeParametrosParams\ModificadoDeParametrosParams\bin\Debug\netcoreapp3.1\ModificadoDeParametrosParams.exe
+C:\Users\Manoel\Desktop\Estudo C#\ModificadoDeParametrosParams\ModificadoDeParametrosParams\bin\Debug\netcoreapp3.1\ModificadoDeParametrosParams.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\ModificadoDeParametrosParams\ModificadoDeParametrosParams\bin\Debug\netcoreapp3.1\ModificadoDeParametrosParams.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\ModificadoDeParametrosParams\ModificadoDeParametrosParams\bin\Debug\netcoreapp3.1\ModificadoDeParametrosParams.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\ModificadoDeParametrosParams\ModificadoDeParametrosParams\bin\Debug\netcoreapp3.1\ModificadoDeParametrosParams.dll
+C:\Users\Manoel\Desktop\Estudo C#\ModificadoDeParametrosParams\ModificadoDeParametrosParams\bin\Debug\netcoreapp3.1\ModificadoDeParametrosParams.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ModificadoDeParametrosParams\ModificadoDeParametrosParams\obj\Debug\netcoreapp3.1\ModificadoDeParametrosParams.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\ModificadoDeParametrosParams\ModificadoDeParametrosParams\obj\Debug\netcoreapp3.1\ModificadoDeParametrosParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\ModificadoDeParametrosParams\ModificadoDeParametrosParams\obj\Debug\netcoreapp3.1\ModificadoDeParametrosParams.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ModificadoDeParametrosParams\ModificadoDeParametrosParams\obj\Debug\netcoreapp3.1\ModificadoDeParametrosParams.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\ModificadoDeParametrosParams\ModificadoDeParametrosParams\obj\Debug\netcoreapp3.1\ModificadoDeParametrosParams.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ModificadoDeParametrosParams\ModificadoDeParametrosParams\obj\Debug\netcoreapp3.1\ModificadoDeParametrosParams.dll
+C:\Users\Manoel\Desktop\Estudo C#\ModificadoDeParametrosParams\ModificadoDeParametrosParams\obj\Debug\netcoreapp3.1\ModificadoDeParametrosParams.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ModificadoDeParametrosParams\ModificadoDeParametrosParams\obj\Debug\netcoreapp3.1\ModificadoDeParametrosParams.genruntimeconfig.cache

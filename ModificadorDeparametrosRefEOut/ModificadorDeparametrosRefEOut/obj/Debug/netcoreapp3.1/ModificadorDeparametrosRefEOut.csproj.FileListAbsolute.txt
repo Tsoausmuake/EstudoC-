@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\ModificadorDeparametrosRefEOut\ModificadorDeparametrosRefEOut\bin\Debug\netcoreapp3.1\ModificadorDeparametrosRefEOut.exe
+C:\Users\Manoel\Desktop\Estudo C#\ModificadorDeparametrosRefEOut\ModificadorDeparametrosRefEOut\bin\Debug\netcoreapp3.1\ModificadorDeparametrosRefEOut.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\ModificadorDeparametrosRefEOut\ModificadorDeparametrosRefEOut\bin\Debug\netcoreapp3.1\ModificadorDeparametrosRefEOut.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\ModificadorDeparametrosRefEOut\ModificadorDeparametrosRefEOut\bin\Debug\netcoreapp3.1\ModificadorDeparametrosRefEOut.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\ModificadorDeparametrosRefEOut\ModificadorDeparametrosRefEOut\bin\Debug\netcoreapp3.1\ModificadorDeparametrosRefEOut.dll
+C:\Users\Manoel\Desktop\Estudo C#\ModificadorDeparametrosRefEOut\ModificadorDeparametrosRefEOut\bin\Debug\netcoreapp3.1\ModificadorDeparametrosRefEOut.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ModificadorDeparametrosRefEOut\ModificadorDeparametrosRefEOut\obj\Debug\netcoreapp3.1\ModificadorDeparametrosRefEOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\ModificadorDeparametrosRefEOut\ModificadorDeparametrosRefEOut\obj\Debug\netcoreapp3.1\ModificadorDeparametrosRefEOut.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ModificadorDeparametrosRefEOut\ModificadorDeparametrosRefEOut\obj\Debug\netcoreapp3.1\ModificadorDeparametrosRefEOut.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\ModificadorDeparametrosRefEOut\ModificadorDeparametrosRefEOut\obj\Debug\netcoreapp3.1\ModificadorDeparametrosRefEOut.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ModificadorDeparametrosRefEOut\ModificadorDeparametrosRefEOut\obj\Debug\netcoreapp3.1\ModificadorDeparametrosRefEOut.dll
+C:\Users\Manoel\Desktop\Estudo C#\ModificadorDeparametrosRefEOut\ModificadorDeparametrosRefEOut\obj\Debug\netcoreapp3.1\ModificadorDeparametrosRefEOut.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ModificadorDeparametrosRefEOut\ModificadorDeparametrosRefEOut\obj\Debug\netcoreapp3.1\ModificadorDeparametrosRefEOut.genruntimeconfig.cache
+C:\Users\Manoel\Desktop\Estudo C#\ModificadorDeparametrosRefEOut\ModificadorDeparametrosRefEOut\obj\Debug\netcoreapp3.1\ModificadorDeparametrosRefEOut.csproj.AssemblyReference.cache

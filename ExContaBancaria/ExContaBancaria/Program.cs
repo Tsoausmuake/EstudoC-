@@ -7,8 +7,8 @@ namespace ExContaBancaria
     {
         static void Main(string[] args)
         {
-            
 
+            ContaBancaria p;
             Console.Write("Entre com o número da conta: ");
             int NumeroConta = int.Parse(Console.ReadLine());
 
@@ -17,14 +17,14 @@ namespace ExContaBancaria
 
             Console.Write("Haverá um depósito inicial (s/n)? ");
             char escolha = char.Parse(Console.ReadLine());
-            ContaBancaria p = new ContaBancaria();
 
-            if (escolha == 's')
+
+            if (escolha == 's' || escolha == 'S')
             {
                 Console.Write("Entre com o valor do depósito inicial: ");
                 double deposito = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                p.Deposito(deposito);
                 p = new ContaBancaria(NumeroConta, titular, deposito);
+                p.Deposito(deposito);
             }
             else
             {
