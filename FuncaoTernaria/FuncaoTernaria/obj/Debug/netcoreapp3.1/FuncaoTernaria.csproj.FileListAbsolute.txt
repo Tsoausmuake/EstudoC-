@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\FuncaoTernaria\FuncaoTernaria\bin\Debug\netcoreapp3.1\FuncaoTernaria.exe
+C:\Users\Manoel\Desktop\Estudo C#\FuncaoTernaria\FuncaoTernaria\bin\Debug\netcoreapp3.1\FuncaoTernaria.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\FuncaoTernaria\FuncaoTernaria\bin\Debug\netcoreapp3.1\FuncaoTernaria.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\FuncaoTernaria\FuncaoTernaria\bin\Debug\netcoreapp3.1\FuncaoTernaria.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\FuncaoTernaria\FuncaoTernaria\bin\Debug\netcoreapp3.1\FuncaoTernaria.dll
+C:\Users\Manoel\Desktop\Estudo C#\FuncaoTernaria\FuncaoTernaria\bin\Debug\netcoreapp3.1\FuncaoTernaria.pdb
+C:\Users\Manoel\Desktop\Estudo C#\FuncaoTernaria\FuncaoTernaria\obj\Debug\netcoreapp3.1\FuncaoTernaria.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\FuncaoTernaria\FuncaoTernaria\obj\Debug\netcoreapp3.1\FuncaoTernaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\FuncaoTernaria\FuncaoTernaria\obj\Debug\netcoreapp3.1\FuncaoTernaria.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\FuncaoTernaria\FuncaoTernaria\obj\Debug\netcoreapp3.1\FuncaoTernaria.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\FuncaoTernaria\FuncaoTernaria\obj\Debug\netcoreapp3.1\FuncaoTernaria.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\FuncaoTernaria\FuncaoTernaria\obj\Debug\netcoreapp3.1\FuncaoTernaria.dll
+C:\Users\Manoel\Desktop\Estudo C#\FuncaoTernaria\FuncaoTernaria\obj\Debug\netcoreapp3.1\FuncaoTernaria.pdb
+C:\Users\Manoel\Desktop\Estudo C#\FuncaoTernaria\FuncaoTernaria\obj\Debug\netcoreapp3.1\FuncaoTernaria.genruntimeconfig.cache

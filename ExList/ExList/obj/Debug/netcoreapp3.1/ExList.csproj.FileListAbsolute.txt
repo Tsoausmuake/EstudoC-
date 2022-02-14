@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\ExList\ExList\bin\Debug\netcoreapp3.1\ExList.exe
+C:\Users\Manoel\Desktop\Estudo C#\ExList\ExList\bin\Debug\netcoreapp3.1\ExList.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\ExList\ExList\bin\Debug\netcoreapp3.1\ExList.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\ExList\ExList\bin\Debug\netcoreapp3.1\ExList.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\ExList\ExList\bin\Debug\netcoreapp3.1\ExList.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExList\ExList\bin\Debug\netcoreapp3.1\ExList.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExList\ExList\obj\Debug\netcoreapp3.1\ExList.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExList\ExList\obj\Debug\netcoreapp3.1\ExList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\ExList\ExList\obj\Debug\netcoreapp3.1\ExList.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExList\ExList\obj\Debug\netcoreapp3.1\ExList.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\ExList\ExList\obj\Debug\netcoreapp3.1\ExList.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExList\ExList\obj\Debug\netcoreapp3.1\ExList.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExList\ExList\obj\Debug\netcoreapp3.1\ExList.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExList\ExList\obj\Debug\netcoreapp3.1\ExList.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\ExMatrizes\ExMatrizes\bin\Debug\netcoreapp3.1\ExMatrizes.exe
+C:\Users\Manoel\Desktop\Estudo C#\ExMatrizes\ExMatrizes\bin\Debug\netcoreapp3.1\ExMatrizes.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\ExMatrizes\ExMatrizes\bin\Debug\netcoreapp3.1\ExMatrizes.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\ExMatrizes\ExMatrizes\bin\Debug\netcoreapp3.1\ExMatrizes.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\ExMatrizes\ExMatrizes\bin\Debug\netcoreapp3.1\ExMatrizes.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExMatrizes\ExMatrizes\bin\Debug\netcoreapp3.1\ExMatrizes.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExMatrizes\ExMatrizes\obj\Debug\netcoreapp3.1\ExMatrizes.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExMatrizes\ExMatrizes\obj\Debug\netcoreapp3.1\ExMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\ExMatrizes\ExMatrizes\obj\Debug\netcoreapp3.1\ExMatrizes.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExMatrizes\ExMatrizes\obj\Debug\netcoreapp3.1\ExMatrizes.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\ExMatrizes\ExMatrizes\obj\Debug\netcoreapp3.1\ExMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\ExMatrizes\ExMatrizes\obj\Debug\netcoreapp3.1\ExMatrizes.dll
+C:\Users\Manoel\Desktop\Estudo C#\ExMatrizes\ExMatrizes\obj\Debug\netcoreapp3.1\ExMatrizes.pdb
+C:\Users\Manoel\Desktop\Estudo C#\ExMatrizes\ExMatrizes\obj\Debug\netcoreapp3.1\ExMatrizes.genruntimeconfig.cache
