@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.exe
+C:\Users\Manoel\Desktop\Estudo C#\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.dll
+C:\Users\Manoel\Desktop\Estudo C#\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.pdb
+C:\Users\Manoel\Desktop\Estudo C#\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.dll
+C:\Users\Manoel\Desktop\Estudo C#\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.pdb
+C:\Users\Manoel\Desktop\Estudo C#\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.genruntimeconfig.cache
+C:\Users\Manoel\Desktop\Estudo C#\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.csproj.AssemblyReference.cache

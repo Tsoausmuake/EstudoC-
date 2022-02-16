@@ -1,0 +1,14 @@
+C:\Users\Manoel\Desktop\Estudo C#\beecrowd1028\beecrowd1028\bin\Debug\netcoreapp3.1\beecrowd1028.exe
+C:\Users\Manoel\Desktop\Estudo C#\beecrowd1028\beecrowd1028\bin\Debug\netcoreapp3.1\beecrowd1028.deps.json
+C:\Users\Manoel\Desktop\Estudo C#\beecrowd1028\beecrowd1028\bin\Debug\netcoreapp3.1\beecrowd1028.runtimeconfig.json
+C:\Users\Manoel\Desktop\Estudo C#\beecrowd1028\beecrowd1028\bin\Debug\netcoreapp3.1\beecrowd1028.runtimeconfig.dev.json
+C:\Users\Manoel\Desktop\Estudo C#\beecrowd1028\beecrowd1028\bin\Debug\netcoreapp3.1\beecrowd1028.dll
+C:\Users\Manoel\Desktop\Estudo C#\beecrowd1028\beecrowd1028\bin\Debug\netcoreapp3.1\beecrowd1028.pdb
+C:\Users\Manoel\Desktop\Estudo C#\beecrowd1028\beecrowd1028\obj\Debug\netcoreapp3.1\beecrowd1028.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\Estudo C#\beecrowd1028\beecrowd1028\obj\Debug\netcoreapp3.1\beecrowd1028.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\Estudo C#\beecrowd1028\beecrowd1028\obj\Debug\netcoreapp3.1\beecrowd1028.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\beecrowd1028\beecrowd1028\obj\Debug\netcoreapp3.1\beecrowd1028.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\Estudo C#\beecrowd1028\beecrowd1028\obj\Debug\netcoreapp3.1\beecrowd1028.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\Estudo C#\beecrowd1028\beecrowd1028\obj\Debug\netcoreapp3.1\beecrowd1028.dll
+C:\Users\Manoel\Desktop\Estudo C#\beecrowd1028\beecrowd1028\obj\Debug\netcoreapp3.1\beecrowd1028.pdb
+C:\Users\Manoel\Desktop\Estudo C#\beecrowd1028\beecrowd1028\obj\Debug\netcoreapp3.1\beecrowd1028.genruntimeconfig.cache
